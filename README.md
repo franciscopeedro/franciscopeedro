@@ -1,4 +1,4 @@
-  ## 👋 Hi,I’m Francisco Pedro
+  ## 👋 Hi, I’m Francisco Pedro
 - 👀 Cursando Eng de computação
 - 🌱 Estudando C++, php, GO e outras ᓚᘏᗢ
 - 📫 Email: franciscopedroficial@gmai.com
