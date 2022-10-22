@@ -1,6 +1,6 @@
   ## 👋 Hi, I’m Francisco Pedro
-- 👀 Cursando Eng de computação
-- 🌱 Estudando C++, php, GO e outras  ᓚᘏᗢ
+- 👀 Cursando Engenharia de computação na UFC
+- 🌱 Estudando C++, php, GO e outras ᓚᘏᗢ
 - 📫 Email:franciscopedroficial@gmai.com
 
 <div align="center">
