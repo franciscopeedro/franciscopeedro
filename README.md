@@ -1,6 +1,6 @@
   ## 👋 Hi, I’m Francisco Pedro
 - 👀 Cursando Engenharia de computação na UFC
-- 🌱 Estudando C++, php, react js, react-native js e outras ᓚᘏᗢ
+- 🌱 Estudando C++, php, laravel, react js, react-native js e outras ᓚᘏᗢ
 - 📫 Email:franciscopedroficial@gmai.com
 
 <div align="center">
