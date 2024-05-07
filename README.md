@@ -1,4 +1,4 @@
-  ##👋 Hi, I’m Francisco Pedro
+## 👋 Hi, I’m Francisco Pedro
 - 👀 Studying Computer Engineering at UFC
 - 🌱 Learning Java for Android Studio, C++, React, React Native, Vue, and others ᓚᘏᗢ
 - 📫 Email: franciscopedroficial@gmail.com
