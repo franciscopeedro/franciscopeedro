@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">👨‍💻 Data scientist, React.JS and NEXT.JS 14<br>📖 I'm currently learning Python e data science, React.JS and Next.JS, Node.JS<br>🎲 Study NEXT.JS and Project Architecture <br>🎯 Work with NEXT.JS and React</p>
+<p align="left">👨‍💻 Website development with PHP, web applications with React and JavaScript, solutions in C++, and mobile development with React Native<br>📖 Currently studying Golang for back-end development<br>🎲 Interested in project architecture and scalable solutions<br>🎯 Passionate about technology and innovation</p>
 
 ###
 
@@ -37,6 +37,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
