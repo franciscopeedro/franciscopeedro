@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm a WEB Developer</p>
-<p align="left">Computer Engineer</p>
+<p align="left">Infotmation Systens Bachelor's at Federal University of Ceará</p>
 
 ###
 
